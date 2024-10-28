@@ -1,0 +1,1 @@
+Pibloggers 2.0 is a RESTful blog API application written in Python with Django and Django Rest Frameworks.
